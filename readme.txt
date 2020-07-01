@@ -13,6 +13,6 @@ Checkout the complete git repository and execute below commands.
         terraform init   --> initiate the provider binaries.  
         terraform plan   --> snapshot of complete infra that will be created.  
         terraform apply -no-color -auto-approve. --> this is for creating the infrastrucutre. 
-        terraform destry --> to destroy the infrastructure that is created. 
+        terraform destroy --> to destroy the infrastructure that is created. 
         
 
